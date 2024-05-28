@@ -1,0 +1,6 @@
+name: flutter_melos_vercel_test
+
+packages:
+  - apps/**
+  - packages/**
+
